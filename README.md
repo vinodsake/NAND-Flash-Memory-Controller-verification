@@ -13,7 +13,7 @@ Design supports following operations
 
 ## Verification Environment 
 
-![image](https://cloud.githubusercontent.com/assets/18235088/24575113/433fd146-1652-11e7-947e-6392da780b5e.png)
+![image](https://cloud.githubusercontent.com/assets/18235088/24575222/72a86a68-1654-11e7-8964-c89f4adaf096.png)
 
 ## Getting Started
 
