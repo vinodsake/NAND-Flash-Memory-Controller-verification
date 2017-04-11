@@ -40,4 +40,5 @@ This project has been developed with Mentor Questasim.
 
 ## License
 
-This project is licensed under the open-source license
+The design code is used from lattice semiconductors only for verifying the design.
+link for source code : [Lattice/NAND Flash Memory Controller](http://www.latticesemi.com/en/Products/DesignSoftwareAndIP/IntellectualProperty/ReferenceDesigns/ReferenceDesign04/NANDFlashController.aspx)
